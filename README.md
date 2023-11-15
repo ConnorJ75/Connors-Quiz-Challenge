@@ -3,3 +3,5 @@ This program quizzes the user on a few different syntax topics in JavaScript. Th
 
 Deployed application:
 https://connorj75.github.io/Connors-Quiz-Challenge/
+
+![image](https://github.com/ConnorJ75/Connors-Quiz-Challenge/assets/147671020/a5f10388-e940-43e5-96e9-cdad3a07a80a)
